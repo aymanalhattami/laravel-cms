@@ -1,0 +1,75 @@
+.main-color{
+    color: #F4645F !important;
+}
+
+.second-color{
+    color: #f5f5f5 !important;
+}
+
+.black-color{
+    color: #333;
+}
+
+.main-background{
+    background-color: #1F2024 !important;
+}
+
+.second-background{
+    background-color: #F4645F !important;
+}
+
+.control-label{
+    text-align: left !important;
+}
+
+.btn, .panel, .form-control, .panel-heading{
+    border-radius: 0px;
+}
+
+.shodow{
+    box-shadow: 10px 10px 5px #e6e3e3;
+}
+
+.line-div{
+    height: 20px;
+}
+
+.carousel-caption{
+    background-color: #ffffffa1;
+}
+
+.navbar-default{
+    border-bottom-color: #f4645f;
+    border-left-color: #f4645f;
+    border-right-color: #f4645f;
+    border-width: 1px;
+    background-color: #fff;
+}
+
+/* carousel.blade.php */
+.item img{
+    width: 700px !important;
+    height: 400px !important;
+}
+
+.carousel-indicators li{
+    background-color: #D7941E;
+}
+
+.carousel-indicators li.active{
+    background-color: #1F2024;
+}
+
+
+/* posts/index.blade.php */
+.min-size {
+    width: 330px;
+    height: 170px;
+}
+
+/* about.blade.php */
+.about-name{
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: -3px;
+}
